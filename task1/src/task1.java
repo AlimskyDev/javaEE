@@ -45,6 +45,7 @@ public class task1 extends HttpServlet {
             out.print("</tr>");
         }
 
+
         out.print("</table>");
     }
 }
